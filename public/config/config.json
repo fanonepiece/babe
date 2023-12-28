@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC1fa1C41e03Aeea91E9285f24b75a02783c9F01d",
+  "SCAN_LINK": "https://exp-l1.jibchain.net/token/0xC1fa1C41e03Aeea91E9285f24b75a02783c9F01d",
+  "NETWORK": {
+    "NAME": "JIBCHAIN L1",
+    "SYMBOL": "JBC",
+    "ID": 8899
+  },
+  "NFT_NAME": "LOVELYCHICk",
+  "SYMBOL": "LOVELYCHICK",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Meowneon",
+  "MARKETPLACE_LINK": "https://meowneon.app/select",
+  "SHOW_BACKGROUND": true
+}
